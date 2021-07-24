@@ -50,9 +50,11 @@ To build documentation
 2. cd `pygus/docs` folder
 3. run:
 
-    make html
+```
+make html
+```
 
 ## Links
 
-- [PyGUS Documentation](https://pytest.readthedocs.io/en/latest/)
+- [PyGUS Documentation](https://pygus.readthedocs.io/en/latest/)
 - [GUS API Documentation (PL)](https://api.stat.gov.pl)
