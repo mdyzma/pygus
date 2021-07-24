@@ -8,13 +8,6 @@ with open("README.md") as readme_file:
     long_description = readme_file.read()
 
 
-tests_require = [
-    "mock>=1.0.1",
-    "nose>=1.3.3",
-    "vcrpy>=1.10.3",
-]
-
-
 setup(
     name="pygus",
     version=__version__,
@@ -33,8 +26,8 @@ setup(
     download_url="https://pypi.org/project/pygus/",
     packages=find_packages(exclude=["tests", "examples"]),
     install_requires=[
-        "requests>=2.11.1,<3",
-        "requests_oauthlib>=1.0.0,<2",
+        "requests>=2.23.0,<3",
+        "requests_oauthlib>=1.3.0,<2",
     ],
     keywords="gus library",
     python_requires=">=3.8",
