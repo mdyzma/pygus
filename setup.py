@@ -11,7 +11,7 @@ with open("README.md") as readme_file:
 setup(
     name="pygus",
     version=__version__,
-    description="Twitter library for Python",
+    description="GUS API python wrapper",
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
