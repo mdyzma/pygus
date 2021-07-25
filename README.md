@@ -7,6 +7,10 @@
 
 Python wrapper for GUS REST API.
 
+**GUS**: Główny Urząd Statystyczny is a main statistical Government institution. See: https://stat.gov.pl.
+
+This library attempts to unify GUS REST API endpoints for graceful and easy data extraction from the GUS data banks using Python programming language.
+
 ## Installation
 
 The easiest way to install the latest version from PyPI is by using pip:
