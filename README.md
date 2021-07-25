@@ -1,6 +1,8 @@
 # PyGUS
 
 [![Build](https://github.com/mdyzma/pygus/actions/workflows/lint_and_test.yml/badge.svg?branch=main)](https://github.com/mdyzma/pygus/actions/workflows/lint_and_test.yml)
+[![Documentation Status](https://readthedocs.org/projects/pygus/badge/?version=latest)](https://pygus.readthedocs.io/en/latest/?badge=latest)
+
 
 
 Python wrapper for GUS REST API.
