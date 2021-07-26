@@ -2,6 +2,7 @@
 
 [![Build](https://github.com/mdyzma/pygus/actions/workflows/lint_and_test.yml/badge.svg?branch=main)](https://github.com/mdyzma/pygus/actions/workflows/lint_and_test.yml)
 [![Documentation Status](https://readthedocs.org/projects/pygus/badge/?version=latest)](https://pygus.readthedocs.io/en/latest/?badge=latest)
+[![codecov](https://codecov.io/gh/mdyzma/pygus/branch/main/graph/badge.svg?token=xlIYRqac9N)](https://codecov.io/gh/mdyzma/pygus)
 
 Python wrapper for GUS REST API.
 
